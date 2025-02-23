@@ -1,4 +1,3 @@
-Glitzmark:banana
 ancyprol:baseball
 prodott:corvette
 rightsubl:golfer
@@ -24,7 +23,6 @@ guitaristjaden:thomas
 updateson:abc123
 scattle:antman
 tenashlin:12345678
-Ravagergyps:1169900
 theborgitas:25061978
 equaverit:koston7
 nightnippos:iloveyou
@@ -43,4 +41,4 @@ twitterni:Warrio
 olympicwire:gopack7
 ravagergyps:1169900
 carotiended:B8uW
-sanbenectnTZw
+sanbenectnTZw:nTZw
